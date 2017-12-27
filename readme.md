@@ -98,6 +98,7 @@
 
 *Overlay / modal / alert / dialog / lightbox / popup*
 
+ - [ngx-smart-modal](https://github.com/biig-io/ngx-smart-modal) - Angular2+ Modal / Dialog fully customizable window handler with powerful API.
  - [angular2-modal](https://github.com/shlomiassaf/angular2-modal) - Angular2 Modal / Dialog window.
  - [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) - Angular2 Bootstrap3 Modal Component.
 
@@ -143,6 +144,7 @@
 
 *Let the user know that something is being loaded*
 
+ - [ngx-mart-loader](https://github.com/biig-io/ngx-smart-loader) - Angular fully customizable loader handler.
  - [ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) - Angular 2 component shows slim loading bar at the top of the page.
  - [angular2-busy](https://github.com/devyumao/angular2-busy) - Show busy/loading indicators on any promise, or on any Observable's subscription.
  - [angular2-ladda](https://github.com/moff/angular2-ladda) - Angular 2 Ladda module.
@@ -383,6 +385,7 @@
  - [igniteui-js-blocks](https://github.com/IgniteUI/igniteui-js-blocks) - Mobile-first Angular native components.
  - [devextreme-angular](https://github.com/DevExpress/devextreme-angular) - Angular 2 UI and visualization components based on DevExtreme widgets.
  - [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
+ - [ngx-tabset](https://github.com/biig-io/ngx-tabset) - Angular 2+ very lightweight library to create custom tabs.
 
 ### Mobile
 
